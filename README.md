@@ -1,16 +1,9 @@
-# contador_app
+# resurtido_app
 
-A new Flutter project.
+Aplicacion flutter de resurtido, login con API y escaneo de codigo de barras de productos los cuales se buscan en una BD oara obtener su información y capturar las piezas surtidas.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is my first app on flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Las contribuciones son bienvedidas.**
